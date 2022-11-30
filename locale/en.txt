@@ -210,4 +210,4 @@ IconButton_7B212C50_3AA0_A1AF_41C5_F659ED22BD52.toolTip = om programmet
 ### Description
 
 ### Title
-tour.name = Nariehamn 360-Vitrin2
+tour.name = Mariehamn 360-Vitrin2
