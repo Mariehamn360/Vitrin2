@@ -1,2 +1,4 @@
 # Vitrin2
-This is a 360 experience of Mariehamn Model town during 1920-1930. Here you are in display cabinet 2
+Andra Vitrinen i den virtuella modellstaden. 
+360 Foto & design och programering: Dacian Sölgen
+portrett foto: Nya Åland
